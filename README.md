@@ -5,6 +5,6 @@
 
 ## Links
 
-        [github files](https://github.com/Tarbo13/First-HW-assignment)
+        [github files] (https://github.com/Tarbo13/First-HW-assignment)
 
-        [Horiseon web site](https://tarbo13.github.io/First-HW-assignment/)
+        [Horiseon web site] (https://tarbo13.github.io/First-HW-assignment/)
